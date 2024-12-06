@@ -20,6 +20,7 @@ def ask_question():
     elif operation == '-':
         answer = num1 - num2
     elif operation == '*':
+
         
         answer = num1 * num2
     elif operation == '/':
